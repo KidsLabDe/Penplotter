@@ -53,4 +53,4 @@ Wir freuen uns über Beiträge zu diesem Projekt. Wenn du Verbesserungsvorschlä
 
 ## Kontakt
 
-Bei Fragen oder Anregungen kannst du uns unter gregor@kidslab.de kontaktieren.
+Bei Fragen oder Anregungen kannst du uns unter daniel@kidslab.de oder gregor@kidslab.de kontaktieren.
